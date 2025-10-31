@@ -1,1 +1,1 @@
-# Here are your Instructions
+TempleQuest is a modern and interactive website that helps users explore, discover, and learn about famous temples, their history, and cultural significance. Built with clean design and smooth navigation, it offers a simple yet engaging experience for anyone interested in spiritual journeys, heritage, and temple tourism.
